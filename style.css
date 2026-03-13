@@ -4,7 +4,7 @@
   
 }
 
-@media (min-width: 1025px) {
+@media (min-width: 800px) {
 
 .flyto{
   height: 100vh;
@@ -157,7 +157,7 @@
 }
 }
 
-@media (max-width: 767px){
+@media (max-width: 799px){
   .flyto{
   height: 100vh;
   width: 100%;
